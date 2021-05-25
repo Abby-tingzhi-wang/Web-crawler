@@ -1,5 +1,5 @@
 # Web-crawler
-# download the table from a government public website
+# download table from a government public website
 
 # install 
     ! pip install requests
